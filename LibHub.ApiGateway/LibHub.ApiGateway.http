@@ -1,0 +1,6 @@
+@LibHub.ApiGateway_HostAddress = http://localhost:5128
+
+GET {{LibHub.ApiGateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
